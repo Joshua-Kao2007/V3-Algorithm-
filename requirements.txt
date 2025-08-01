@@ -2,4 +2,6 @@ pandas
 openpyxl
 streamlit
 os
-sklearn
+scikit-learn
+seaborn
+matplotlib
